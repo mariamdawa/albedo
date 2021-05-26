@@ -1,0 +1,23 @@
+<div class="p-5 rounded"  >
+    <!-- <div class="centeredCard"> -->
+      <div layout-align="center" class="align-self-center m-auto">
+          <div class="row" *ngFor="let datas of data">
+            <div class="col-4"><div class="card"  style="width: 1000px;">
+            <div class="row">
+             <div class="col-4">
+        
+            <img class="card-img-top media-left"  src={{datas.Picture}} alt="Card image cap" width="1200px" height="200px">
+           </div>
+           <div class='col-8'>
+            <div class="card-body">
+              <h2 class="card-title">{{datas.NameOfMission}}</h2>
+              <small>Launch Date: {{datas.DateOfLaunching.Day}}/{{datas.DateOfLaunching.Month}}/{{datas.DateOfLaunching.Year}}</small>
+              
+              <h5 class="card-title">Mission Description: {{datas.MissionDescription}}</h5>
+            <br>
+              
+              <a href="/single" routerLinkActive="active" [routerLink]="['/single',{foo:datas}]" class="btn btn-dark m-auto">More Info</a>
+            </div></div></div></div></div>
+          </div><br> <br>
+      </div>
+    </div>

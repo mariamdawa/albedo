@@ -1,1 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+.backg{
+    background: url(https://cdn.stocksnap.io/img-thumbs/960w/S3XBRRS2D9.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+}

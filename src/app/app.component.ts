@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import {HomeComponent} from './home/home.component';
+import {AppRoutingModule} from "./app-routing.module";
 
 @Component({
   selector: 'app-root',
@@ -7,4 +9,17 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Aalbedo';
+
+  constructor () {
+    }
+  
+  
+  
+  
+  ngOnInit () {
+    
+      }
+    
+  
+  
 }

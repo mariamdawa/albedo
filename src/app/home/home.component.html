@@ -1,0 +1,97 @@
+
+
+<!-- <div class="centered block"> -->
+  <div class=row>
+    
+    <div class="p-5 col-8 ">
+<youtube-player class="align-self-center"
+[videoId]="id"
+[height]=500
+[width]=1000
+(ready)="savePlayer($event)"
+(change)="onStateChange($event)"
+></youtube-player></div>
+<!-- <div class="col-3 mx-auto p-4"><br>
+  <br>
+  <br>
+  <h2 style="color:white; font-size: xx-large"><b>The next launch in :</b></h2>
+      </div> -->
+    </div>
+  
+<!-- </div> -->
+<div class="p-5 rounded"  >
+<!-- <div class="centeredCard"> -->
+  <div layout-align="center" class="align-self-center m-auto">
+      <div class="row" *ngFor="let datas of data|slice:0:3">
+        <div class="col-4"><div class="card"  style="width: 1000px;">
+        <div class="row">
+         <div class="col-4">
+    
+        <img class="card-img-top media-left"  src={{datas.Picture}} alt="Card image cap" width="1200px" height="200px">
+       </div>
+       <div class='col-8'>
+        <div class="card-body">
+          <h5 class="card-title">{{datas.NameOfMission}}</h5>
+          <small>Launch Date: {{datas.DateOfLaunching.Day}}/{{datas.DateOfLaunching.Month}}/{{datas.DateOfLaunching.Year}}</small>
+          <p class="card-text">{{datas.MissionDescription}}</p>
+          <a href="#" class="btn btn-dark m-auto">More Info</a>
+        </div></div></div></div></div>
+      </div><br> <br><div style="align-self:center;">
+      <a href="/schedule" class="btn btn-dark">View Full Schedule</a></div>
+  </div>
+</div>
+    
+
+      <!-- <div class="align-self-center m-auto">
+      <div class="row">
+            <div class="col-4">
+        <div class="card" style="width: 18rem;">
+            <img class="card-img-top" src=".../100px180/" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div></div>
+          </div></div>
+</div>
+
+          <div class="row">
+                <div class="col-4">
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src=".../100px180/" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title">Card title</h5>
+                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                  <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div></div>
+              </div></div>
+
+
+
+              <div class="row">
+                    <div class="col-4">
+                <div class="card" style="width: 18rem;">
+                    <img class="card-img-top" src=".../100px180/" alt="Card image cap">
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                      <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div></div>
+                  </div></div> -->
+
+
+
+                  <!-- <table >
+                      
+                      <tr>
+                          <th>ID</th>
+                              <th>Name of Bird</th>
+                                  <th>Type of Bird</th>
+                      </tr>
+               
+                      <tr *ngFor="let bird of data">
+                          <td>{{bird.Time}}</td>
+                              <td>{{bird.Status}}</td>
+                                  <td>{{bird.Payload}}</td>
+                      </tr>
+                  </table> -->

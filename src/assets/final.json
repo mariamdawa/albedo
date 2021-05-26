@@ -1,0 +1,705 @@
+
+[
+{
+"NameOfMission":"Lotos-S1",
+"Picture":"https://www.spacelaunchschedule.com/rockets/soyuz.jpg",
+"NameOfRocket":"Soyuz 2.1B",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"10",
+                   "Day":"24"
+                  },
+"Time":"8:00 PM",
+"Company/Government":"Russian Space Forces ",
+"Payload":"8500 Kg",
+"Spaceport":"43/4 (43R), Plesetsk Cosmodrome, Russia",
+"SurroundingSiteToView":"Plesetsk Cosmodrome, Russian Federation", 
+"LiveStreaming_URL":"Not Available",
+"MissionDescription":"Lotos-S1 spacecraft is a part of the Liana constellation, designed for orbital electronic intelligence.",
+"Status":"Serious issues and the project will probably be delayed."
+},
+{
+"NameOfMission":"Ionospheric Connection Explorer (ICON) ",
+"Picture":"https://s3.amazonaws.com/launchlibrary/RocketImages/Pegasus+XL_1280.jpg",
+"NameOfRocket":"Pegasus XL",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"10",
+                   "Day":"26"
+                  },
+"Time":"4:00 AM",
+"Company/Government":"NASA",
+"Payload":"443Kg",
+"Spaceport":"Air launch to orbit",
+"SurroundingSiteToView":"Florida, USA",
+"LiveStreaming_URL":"https://www.youtube.com/watch?v=wwMDvPCGeE0",
+"MissionDescription":"Ionospheric Connection Explorer (ICON) is a NASA mission to study Earth's thermosphere and ionosphere and the connection between space weather and weather on our planet. Mission is planned to last for two years.",
+"Status":"On schedule, on budget, all good."
+},
+
+{
+"NameOfMission":"Weilai-1 (Future-1)",
+"Picture":"https://cdn5.vectorstock.com/i/thumb-large/42/39/big-grey-rocket-icon-isometric-3d-style-vector-9044239.jpg",
+"NameOfRocket":"Zhuque-1",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"10",
+                   "Day":"26"
+                  },
+"Time":"To Be Decided",
+"Company/Government":"LandSpace",
+"Payload":"4000 Kg",
+"Spaceport":"Unknown Pad, Jiuquan",
+"SurroundingSiteToView":"Jiuquan",
+"LiveStreaming_URL":"un-available",
+"MissionDescription":"The satellite is operated by China Central Television (CCTV) and is intended to carry out scientific expermients and perform Earth observation. Weilai-1 is expected to operate in sun-synchronous orbit for two years.",
+"Status":"Serious issues and the project will probably be delayed."
+},
+
+{
+"NameOfMission":"KhalifaSat & GOSAT-2",
+"Picture":"https://s3.amazonaws.com/launchlibrary/RocketImages/H-IIA_2560.jpg",
+"NameOfRocket":"H-IIA",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"10",
+                   "Day":"29"
+                  },
+"Time":"12:08 AM",
+"Company/Government":"Mitsubishi Heavy Industries",
+"Payload":"4100 Kg - 6000 Kg",
+"Spaceport":"Tanegashima, Japan",
+"SurroundingSiteToView":"japan",
+"LiveStreaming_URL":"https://youtu.be/OAyL0VCf_L4",
+"MissionDescription":"KhalifaSat is an Earth observation satellite for UAE. KhalifaSat will provide high-resolution imagery of Earth to be used for various purposes, including urban planning, change monitoring, area classification, monitoring environmental change and aiding relief efforts for natural disasters GOSAT 2 (Greenhouse gases Observing SATellite 2) is a Japanese satellite dedicated to greenhouse gas measurement from space. It's a follow on to the GOSAT mission and includes such improvements as an ability to gather more precise data and monitor carbon monoxide concentrations.",
+"Status":"On schedule, on budget, all good."
+},
+
+{
+"NameOfMission":"CFOSAT",
+"Picture":"https://www.spacelaunchschedule.com/rockets/long-march.jpg",
+"NameOfRocket":" Long March 2C",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"10",
+                   "Day":"29"
+                  },
+"Time":"To Be Decided",
+"Company/Government":"China Aerospace Science and Technology Corporation",
+"Payload":"300 - 600 Kg",
+"Spaceport":"Unknown Pad, Jiuquan",
+"SurroundingSiteToView":"un known yet",
+"LiveStreaming_URL":"un available",
+"MissionDescription":"CFOSAT (China-France Oceanography SATellite) is a joint mission of the Chinese (CNSA) and French (CNES) space agencies with the goal to monitor the ocean surface winds and waves and to provide information on related ocean and atmospheric science and applications. The primary objective of CFOSAT is to monitor on a global scale the wind and waves at the ocean surface.",
+"Status":"Serious issues and the project will probably be delayed."
+},
+
+{
+"NameOfMission":"Demo Flight",
+"Picture":"https://cdn5.vectorstock.com/i/thumb-large/42/39/big-grey-rocket-icon-isometric-3d-style-vector-9044239.jpg",
+"NameOfRocket":"Vector-R",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"10",
+                   "Day":"30"
+                  },
+"Time":"To Be Decided",
+"Company/Government":"Vector",
+"Payload":"60 Kg",
+"Spaceport":"Kodiak LP-1",
+"SurroundingSiteToView":"Kodiak Launch Complex, Alaska, USA",
+"LiveStreaming_URL":"un available",
+"MissionDescription":"First orbital flight of a Vector-R rocket, which will carry two PocketQube satellites.",
+"Status":"Serious issues and the project will probably be delayed."
+},
+
+{
+"NameOfMission":"LauncherOne Test Flight",
+"Picture":"https://cdn5.vectorstock.com/i/thumb-large/42/39/big-grey-rocket-icon-isometric-3d-style-vector-9044239.jpg",
+"NameOfRocket":"LauncherOne",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"10",
+                   "Day":"30"
+                  },
+"Time":"To Be Decided",
+"Company/Government":"Virgin Orbit",
+"Payload":"200 - 300 Kg",
+"Spaceport":"Air launch to orbit",
+"SurroundingSiteToView":"un known",
+"LiveStreaming_URL":"un available",
+"MissionDescription":"Payload-free test flight of the LauncherOne vehicle.",
+"Status":"Serious issues and the project will probably be delayed."
+},
+
+{
+"NameOfMission":" Gonets-M24, Gonets-M25, Gonets-M26 & 2 x Blits-M",
+"Picture":"https://www.spacelaunchschedule.com/rockets/proton.jpg",
+"NameOfRocket":"Rokot / Briz-KM",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"10",
+                   "Day":"31"
+                  },
+"Time":"To Be Decided",
+"Company/Government":"Russian Space Forces",
+"Payload":"1950 Kg",
+"Spaceport":"Plesetsk 133/3",
+"SurroundingSiteToView":"Plesetsk Cosmodrome, Russian Federation",
+"LiveStreaming_URL":"un available",
+"MissionDescription":"Gonets-M are an upgraded version of Gonets satellites, derived from military communications system Strela-3. Gonets-M constellation is tasked with monitoring ecological and industrial objects, providing communication and data transmission services, covering also the remote areas like the Far North region. Gonets-M satellites share the ride with the Blits-M microsatellite, which is a geodesic satellite tasked with determining precise orbit parameters for GLONASS satellites.",
+"Status":"Serious issues and the project will probably be delayed."
+},
+
+{
+"NameOfMission":"GSAT-29",
+"Picture":"https://www.spacelaunchschedule.com/rockets/gslv.jpg",
+"NameOfRocket":"GSLV Mk III",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"10",
+                   "Day":"31"
+                  },
+"Time":"To Be Decided",
+"Company/Government":"Indian Space Research Organization",
+"Payload":"4000 - 10000 Kg",
+"Spaceport":"Sriharikota, Republic of India",
+"SurroundingSiteToView":"The launch cannot be viewed by the public inside the space center, however, launches can be viewed near the Pulicat Bird Sanctuary",
+"LiveStreaming_URL":"un available",
+"MissionDescription":"GSAT-29 is a geostationary communications satellite developed by ISRO. GSAT-29 carries Ka x Ku multi-beam and optical communication payloads.",
+"Status":"Serious issues and the project will probably be delayed."
+},
+
+{
+"NameOfMission":"hellas sat4/saudigeosat-1",
+"Picture":"https://www.spacelaunchschedule.com/rockets/ariane.jpg",
+"NameOfRocket":"Ariane 5 ECA",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"10",
+                   "Day":"31"
+                  },
+"Time":"To Be Decided",
+"Company/Government":"Arianespace",
+"Payload":"9100 Kg",
+"Spaceport":"Ariane Launch Area 3, Kourou",
+"SurroundingSiteToView":"Kourou, French Guiana",
+"LiveStreaming_URL":"un available",
+"MissionDescription":"unknown mission - demo",
+"Status":"Serious issues and the project will probably be delayed."
+},
+
+{
+"NameOfMission":"SupremeSAT-2",
+"Picture":"https://www.spacelaunchschedule.com/rockets/long-march.jpg",
+"NameOfRocket":"Long March 3B",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"10",
+                   "Day":"31"
+                  },
+"Time":"To Be Decided",
+"Company/Government":"China Great Wall Industry Corporation",
+"Payload":"11200 Kg",
+"Spaceport":"Unknown Pad, Unknown Location, China",
+"SurroundingSiteToView":"un known",
+"LiveStreaming_URL":"un available",
+"MissionDescription":"SupremeSAT-2 is a geostationary communications satellite build by CGWIC for Sri Lankan satellite operator SupremeSAT.",
+"Status":"Serious issues and the project will probably be delayed."
+},
+
+{
+"NameOfMission":"It's Business Time",
+"Picture":"https://www.spacelaunchschedule.com/rockets/electron.jpg",
+"NameOfRocket":"Electron",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"10",
+                   "Day":"31"
+                  },
+"Time":"To Be Decided",
+"Company/Government":"Rocket Lab Ltd",
+"Payload":"225 Kg",
+"Spaceport":"Onenui Station, Mahia Peninsula, New Zealand",
+"SurroundingSiteToView":"Blucks Pit Road, Nuhaka, New Zealand or as the locals call it 'Pit point' is one of the best places to view a Rocket Lab Electron rocket launch.",
+"LiveStreaming_URL":"http://www.rocketlabusa.com/live-stream",
+"MissionDescription":"Electron's first commercial launch will feature two Lemur-2 cubesats for Spire Global, a single cubesat for GeoOptics, a NABEO drag sail demonstrator for High Performance Space Structure Systems, and an IRVINE01 cubesat from the Irvine CubeSat STEM Program.",
+"Status":"Serious issues and the project will probably be delayed."
+},
+
+{
+"NameOfMission":"GSAT-7A",
+"Picture":"https://www.spacelaunchschedule.com/rockets/gslv.jpg",
+"NameOfRocket":"GSLV Mk II",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"10",
+                   "Day":"31"
+                  },
+"Time":"To Be Decided",
+"Company/Government":"Indian Space Research Organization",
+"Payload":"2117 Kg",
+"Spaceport":"Sriharikota, Republic of India",
+"SurroundingSiteToView":"Rocket launches can be viewed from just outside Sriharikota. The map and list below highlight some of the best locations for viewing a rocket launch.",
+"LiveStreaming_URL":"un available",
+"MissionDescription":"GSAT-7A is a geostationary communications satellite for the Indian Air Force (IAF).",
+"Status":"Serious issues and the project will probably be delayed."
+},
+
+{
+"NameOfMission":"Progress MS-10 (71P)",
+"Picture":"https://www.spacelaunchschedule.com/rockets/soyuz.jpg",
+"NameOfRocket":"Soyuz-FG",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"10",
+                   "Day":"31"
+                  },
+"Time":"To Be Decided",
+"Company/Government":"Khrunichev State Research and Production Space Center",
+"Payload":"7100 Kg",
+"Spaceport":"1/5, Baikonur Cosmodrome, KazakhstanBaikonur Cosmodrome, Republic of Kazakhstan",
+"SurroundingSiteToView":"Baikonur Cosmodrome, Republic of Kazakhstan",
+"LiveStreaming_URL":"un available",
+"MissionDescription":"The Progress resupply vehicle is an automated, unpiloted version of the Soyuz spacecraft that is used to bring supplies and fuel to the International Space Station.",
+"Status":"Serious issues and the project will probably be delayed."
+},
+
+{
+"NameOfMission":"Glonass-M",
+"Picture":"https://www.spacelaunchschedule.com/rockets/soyuz.jpg",
+"NameOfRocket":"Soyuz 2.1B/Fregat-M",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"11",
+                   "Day":"02"
+                  },
+"Time":"To Be Decided",
+"Company/Government":"Russian Space Forces",
+"Payload":"950 Kg",
+"Spaceport":"43/4 (43R), Plesetsk Cosmodrome, Russia",
+"SurroundingSiteToView":"Plesetsk Cosmodrome, Russian Federation",
+"LiveStreaming_URL":"un available",
+"MissionDescription":"Glonass-M, also known as Uragan-M, are the second generation of Uragan satellite design used for GLONASS satellite navigation system. GLONASS is a Russian space-based navigation system comparable to the similar GPS and Galileo systems. This generation improves on accuracy, power consumption and design life. Each satellite weighs 1415 kg, is equipped with 12 L-band antennas, and has an operational lifetime of 7 years.",
+"Status":"Serious issues and the project will probably be delayed."
+},
+
+{
+"NameOfMission":"mohamed-vi-b",
+"Picture":"https://www.spacelaunchschedule.com/rockets/vega.jpg",
+"NameOfRocket":"Vega",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"11",
+                   "Day":"05"
+                  },
+"Time":"To Be Decided",
+"Company/Government":"Arianespace",
+"Payload":"1963 Kg",
+"Spaceport":"Ariane Launch Area 1, Kourou",
+"SurroundingSiteToView":"Kourou, French Guiana",
+"LiveStreaming_URL":"un available",
+"MissionDescription":"un-known",
+"Status":"Serious issues and the project will probably be delayed."
+},
+
+{
+"NameOfMission":"MetOp-C",
+"Picture":"https://s3.amazonaws.com/launchlibrary/RocketImages/Fregat_1920.jpg",
+"NameOfRocket":"Soyuz STB/Fregat",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"11",
+                   "Day":"06"
+                  },
+"Time":"7:47 PM",
+"Company/Government":"Arianespace",
+"Payload":"7000 Kg",
+"Spaceport":"Ariane Launch Area 1, Kourou",
+"SurroundingSiteToView":"Kourou, French Guiana",
+"LiveStreaming_URL":"un available",
+"MissionDescription":"MetOp is a series of three polar orbiting meteorological satellites developed by the European Space Agency (ESA).",
+"Status":"On schedule, on budget, all good."
+},
+
+{
+"NameOfMission":"Es'hail 2",
+"Picture":"https://s3.amazonaws.com/launchlibrary/RocketImages/Falcon9Block5.jpg_1920.jpg",
+"NameOfRocket":"Falcon 9 Block 5",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"11",
+                   "Day":"14"
+                  },
+"Time":"To Be Decided",
+"Company/Government":"SpaceX",
+"Payload":"22800 Kg",
+"Spaceport":"Kennedy Space Center, FL, USA",
+"SurroundingSiteToView":"Rocket launches can be viewed from several places in an around Kennedy Space Center. The map and list below highlight some of the best locations for viewing a rocket launch. Traffic can be excessive and parking will be limited before and after launches. Rocket launches are visible as far as Orlando, Daytona Beach, Melbourne, Vero Beach, Tampa and Jacksonville on clear days and nights.",
+"LiveStreaming_URL":"https://www.youtube.com/c/spacex/live",
+"MissionDescription":"Es'hail 2 is a communications satellite operated by a Quatar based company. The satellite will operate at 26 degrees East longitude along a geostationary orbit to provide direct-to-home television services in the Middle East and North Africa region.",
+"Status":"Serious issues and the project will probably be delayed."
+},
+
+{
+"NameOfMission":"Test Flight",
+"Picture":"https://cdn5.vectorstock.com/i/thumb-large/42/39/big-grey-rocket-icon-isometric-3d-style-vector-9044239.jpg",
+"NameOfRocket":"KSLV 2 TLV",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"11",
+                   "Day":"14"
+                  },
+"Time":"To Be Decided",
+"Company/Government":"Korea Aerospace Research Institute",
+"Payload":"1500 Kg",
+"Spaceport":"Naro ",
+"SurroundingSiteToView":"Naro Space Center, South Korea",
+"LiveStreaming_URL":"un available",
+"MissionDescription":"This test flight is an important milestone in the development of the South Korean indigenous KSLV 2 rocket, expected to launch in 2021. KSLV 2 TLV (Test Launch Vehicle) is a single-stage rocket which will verify performance of the 75-ton engine, which is planned to be used on the future KSLV 2.",
+"Status":"Serious issues and the project will probably be delayed."
+},
+
+{
+"NameOfMission":"Cygnus CRS NG-10",
+"Picture":"https://www.spacelaunchschedule.com/rockets/antares.jpg",
+"NameOfRocket":"Antares 230",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"11",
+                   "Day":"15"
+                  },
+"Time":"4:49 AM",
+"Company/Government":"Northrop Grumman Innovation Systems",
+"Payload":"8000 Kg",
+"Spaceport":"Launch Area 0 A, Wallops Island, Virginia",
+"SurroundingSiteToView":"Wallops Island, Virginia, USA",
+"LiveStreaming_URL":"un available",
+"MissionDescription":"un-known mission",
+"Status":"On schedule, on budget, all good."
+},
+
+{
+"NameOfMission":"SSO-A Dedicated Rideshare",
+"Picture":"https://s3.amazonaws.com/launchlibrary/RocketImages/Falcon9Block5.jpg_1920.jpg",
+"NameOfRocket":"Falcon 9 Block 5",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"11",
+                   "Day":"19"
+                  },
+"Time":"To Be Decided",
+"Company/Government":"SpaceX",
+"Payload":"22800 Kg",
+"Spaceport":"Vandenberg AFB, CA, USA",
+"SurroundingSiteToView":"Rocket launches can be viewed from several places around Vandenberg AFB. The map and list below highlight some of the best locations for viewing a rocket launch. Traffic can be excessive and parking will be limited before and after launches. Rocket launches are visible as far as Santa Barbara and Los Angeles on clear days and nights.",
+"LiveStreaming_URL":"https://www.youtube.com/c/spacex/live",
+"MissionDescription":"Dedicated rideshare launching payloads into sun-synchronous orbit. Payloads include ORS-6, EU:CROPIS, STPSat-5, BlackSky Global-1 to -4, HawkEye Pathfinder 1-3, Iceye, NEXTSat-1, 2 SkySats, Centauri II, and a Flock of Doves.",
+"Status":"Serious issues and the project will probably be delayed."
+},
+
+{
+"NameOfMission":"HySIS",
+"Picture":"https://www.spacelaunchschedule.com/rockets/pslv.jpg",
+"NameOfRocket":"PSLV XL",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"11",
+                   "Day":"21"
+                  },
+"Time":"To Be Decided",
+"Company/Government":"Indian Space Research Organization",
+"Payload":"320,000 Kg",
+"Spaceport":"Sriharikota, Republic of India",
+"SurroundingSiteToView":"Rocket launches can be viewed from several places in an around Kennedy Space Center. The map and list below highlight some of the best locations for viewing a rocket launch. Traffic can be excessive and parking will be limited before and after launches. Rocket launches are visible as far as Orlando, Daytona Beach, Melbourne, Vero Beach, Tampa and Jacksonville on clear days and nights.",
+"LiveStreaming_URL":"un available",
+"MissionDescription":"HySIS (Hyper Spectral Imaging Spectrometer) is a small Indian earth observation satellite developed by ISRO. The satellite is based on the SSB-2 bus inherited from SARAL. The mission will provide global coverage on repetitive basis to users and also supplement the existing multi-spectral missions. The space-borne Hyper Spectral Imaging Spectrometer (HySIS) will provide earth surface image in VNIR (0.4 to 0.95 m) and SWIR (0.9 to 2.5 m) spectral region in �70+256� contiguous spectral bands in each spectral range with 10 nm bandwidth. It will provide 30 m spatial resolution and a swath of 30 km. Two spectrometers (VNIR and SWIR) are being developed and the integrated payload deck will be delivered for satellite level integration.",
+"Status":"Serious issues and the project will probably be delayed."
+},
+
+{
+"NameOfMission":"SpX CRS-16",
+"Picture":"https://s3.amazonaws.com/launchlibrary/RocketImages/Falcon9Block5.jpg_1920.jpg",
+"NameOfRocket":"Falcon 9 Block 5",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"12",
+                   "Day":"01"
+                  },
+"Time":"To Be Decided",
+"Company/Government":"SpaceX",
+"Payload":"22800 Kg",
+"Spaceport":"Cape Canaveral, FL, USA",
+"SurroundingSiteToView":"A walk honoring prior space exploration missions, parking and public restrooms; in addition, the park broadcasts a live stream from NASA's control room.",
+"LiveStreaming_URL":"un available",
+"MissionDescription":"un-known mission",
+"Status":"Serious issues and the project will probably be delayed."
+},
+
+{
+"NameOfMission":"NROL-71",
+"Picture":"https://www.spacelaunchschedule.com/rockets/delta.jpg",
+"NameOfRocket":"Delta IV Heavy",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"11",
+                   "Day":"28"
+                  },
+"Time":"To Be Decided",
+"Company/Government":"United Launch Alliance",
+"Payload":"28790 Kg",
+"Spaceport":"Vandenberg AFB, CA, USA",
+"SurroundingSiteToView":"W Ocean Ave is closed at 13th ST for rocket launches. At about 3 miles from the SLC-4 launch pad Surf Beach is one of the closest locations to see a rocket launch. Amtrak has a train station that is located right on the beach. The areas north and south of Surf Beach are closed March 1st through September 30th and the whole beach may be closed to protect the Snowy Plover bird nesting spots. Directions",
+"LiveStreaming_URL":"http://ulalaunch.com/webcast.aspx",
+"MissionDescription":"Classified payload for the U.S. National Reconnaissance Office.",
+"Status":"Serious issues and the project will probably be delayed."
+},
+
+{
+"NameOfMission":"Arabsat-6A",
+"Picture":"https://www.spacelaunchschedule.com/rockets/falcon-heavy.jpg",
+"NameOfRocket":"Falcon Heavy",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"11",
+                   "Day":"30"
+                  },
+"Time":"To Be Decided",
+"Company/Government":"SpaceX",
+"Payload":"64000 Kg",
+"Spaceport":"Kennedy Space Center, FL, USA",
+"SurroundingSiteToView":"A clear view of the rocket launch pads, as the road approaches the Port Canaveral area.",
+"LiveStreaming_URL":"un available",
+"MissionDescription":"un-known mission",
+"Status":"Serious issues and the project will probably be delayed."
+},
+
+{
+"NameOfMission":"EDRS-C & HYLAS 3",
+"Picture":"https://www.spacelaunchschedule.com/rockets/ariane.jpg",
+"NameOfRocket":"Ariane 5 ECA",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"11",
+                   "Day":"30"
+                  },
+"Time":"To Be Decided",
+"Company/Government":"Arianespace ",
+"Payload":"9100 Kg",
+"Spaceport":"Ariane Launch Area 3, Kourou",
+"SurroundingSiteToView":"Kourou, French Guiana",
+"LiveStreaming_URL":"un available",
+"MissionDescription":"EDRS-C is one of the two EDRS (European Data Relay System) satellites. EDRS is the European constellation of two geostationary data relay satellites that will relay information and data between satellites, spacecraft, unmanned aerial vehicles, and ground stations. Broadband communications payload called HYLAS 3 is placed on EDRS-C satellite, and is to complement HYLAS 1 and HYLAS 2 satellites already in orbit.",
+"Status":"Serious issues and the project will probably be delayed."
+},
+
+{
+"NameOfMission":"Geo-IK-2 N13L",
+"Picture":"https://www.spacelaunchschedule.com/rockets/proton.jpg",
+"NameOfRocket":"Rokot / Briz-KM ",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"11",
+                   "Day":"30"
+                  },
+"Time":"To Be Decided",
+"Company/Government":"Russian Space Forces",
+"Payload":"1950 Kg",
+"Spaceport":"133/3 (133L), Plesetsk Cosmodrome, Russia",
+"SurroundingSiteToView":"Plesetsk Cosmodrome, Russian Federation",
+"LiveStreaming_URL":"un available",
+"MissionDescription":"Geo-IK-2 is a Russian geodesy mission to deliver precise three-dimensional maps of the Earth�s surface and gravitational data for use in scientific studies and military applications. Using GLONASS for accurate positioning data, the 1400kg satellite will operate in a 1000km polar orbit.",
+"Status":"Serious issues and the project will probably be delayed."
+},
+
+{
+"NameOfMission":"GEO-KOMPSAT-2A",
+"Picture":"https://www.spacelaunchschedule.com/rockets/ariane.jpg",
+"NameOfRocket":"Ariane 5 ECA",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"11",
+                   "Day":"30"
+                  },
+"Time":"To Be Decided",
+"Company/Government":"Arianespace",
+"Payload":"9100 Kg",
+"Spaceport":"Ariane Launch Area 3, Kourou",
+"SurroundingSiteToView":"Kourou, French Guiana",
+"LiveStreaming_URL":"un available",
+"MissionDescription":"un-known mission",
+"Status":"Serious issues and the project will probably be delayed."
+},
+
+{
+"NameOfMission":"VCLS ELaNa XIX",
+"Picture":"https://www.spacelaunchschedule.com/rockets/electron.jpg",
+"NameOfRocket":"Electron ",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"11",
+                   "Day":"30"
+                  },
+"Time":"To Be Decided",
+"Company/Government":"Rocket Lab Ltd",
+"Payload":"225 Kg",
+"Spaceport":"Onenui Station, Mahia Peninsula, New Zealand",
+"SurroundingSiteToView":"Blucks Pit Road, Nuhaka, New Zealand or as the locals call it 'Pit point' is one of the best places to view a Rocket Lab Electron rocket launch.",
+"LiveStreaming_URL":"un available",
+"MissionDescription":"NASA's signed a Venture Class Launch Services contract with Rocket Lab to launch 14 cubesats as a part of CubeSat Launch Initiative Educational Launch of Nanosatellites (ELaNa) program.",
+"Status":"Serious issues and the project will probably be delayed."
+},
+
+{
+"NameOfMission":"PSN VI and Unknown Payload",
+"Picture":"https://s3.amazonaws.com/launchlibrary/RocketImages/Falcon9Block5.jpg_1920.jpg",
+"NameOfRocket":"Falcon 9 Block 5",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"12",
+                   "Day":"31"
+                  },
+"Time":"To Be Decided",
+"Company/Government":"SpaceX",
+"Payload":"22800 Kg",
+"Spaceport":"Cape Canaveral, FL, USA",
+"SurroundingSiteToView":"Rocket launches can be viewed from several places in an around Kennedy Space Center. The map and list below highlight some of the best locations for viewing a rocket launch. Traffic can be excessive and parking will be limited before and after launches. Rocket launches are visible as far as Orlando, Daytona Beach, Melbourne, Vero Beach, Tampa and Jacksonville on clear days and nights.",
+"LiveStreaming_URL":"un available",
+"MissionDescription":"un-known mission",
+"Status":"Serious issues and the project will probably be delayed."
+},
+
+{
+"NameOfMission":"GSAT-31",
+"Picture":"https://www.spacelaunchschedule.com/rockets/ariane.jpg",
+"NameOfRocket":"Ariane 5 ECA",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"11",
+                   "Day":"30"
+                  },
+"Time":"To Be Decided",
+"Company/Government":"Arianespace",
+"Payload":"9100 Kg",
+"Spaceport":"Ariane Launch Area 3, Kourou",
+"SurroundingSiteToView":"Kourou, French Guiana",
+"LiveStreaming_URL":"un available",
+"MissionDescription":"GSAT-31 is an Indian geostationary communications satellite. It's a replacement for Insat 4CR.",
+"Status":"Serious issues and the project will probably be delayed."
+},
+
+{
+"NameOfMission":"EMISAT",
+"Picture":"https://www.spacelaunchschedule.com/rockets/gslv.jpg",
+"NameOfRocket":"PSLV",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"11",
+                   "Day":"30"
+                  },
+"Time":"To Be Decided",
+"Company/Government":"Indian Space Research Organization",
+"Payload":"320,000 Kg",
+"Spaceport":"Sriharikota, Republic of India",
+"SurroundingSiteToView":"Rocket launches can be viewed from just outside Sriharikota. The map and list below highlight some of the best locations for viewing a rocket launch.",
+"LiveStreaming_URL":"un available",
+"MissionDescription":"un-known mission",
+"Status":"Serious issues and the project will probably be delayed."
+},
+
+{
+"NameOfMission":"GSAT-11",
+"Picture":"https://www.spacelaunchschedule.com/rockets/ariane.jpg",
+"NameOfRocket":"Ariane 5 ECA",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"12",
+                   "Day":"03"
+                  },
+"Time":"To Be Detected",
+"Company/Government":"Arianespace",
+"Payload":"9100 Kg",
+"Spaceport":"Ariane Launch Area 3, Kourou",
+"SurroundingSiteToView":"Kourou, French Guiana",
+"LiveStreaming_URL":"un available",
+"MissionDescription":"GSAT-11 is a 5725 kg Indian geostationary communications satellite is based on the new I-6K Bus and carry 40 transponders in the Ku-band and Ka-band frequencies (32 Ka � Ku-Band Forward Link Transponders and 8 Ku � Ka band Return Link Transponders), which are 3-6 times more powerful than that used in existing indian communications satellites and capable of providing upto 10 Gbps throughput. The satellite was originally baselined to be launched by a GSLV Mk.3 rocket, but will now be put into orbit on a commercially procured Ariane launch.",
+"Status":"Serious issues and the project will probably be delayed."
+},
+
+{
+"NameOfMission":"Chang'e 4 (lander and rover)",
+"Picture":"https://www.spacelaunchschedule.com/rockets/long-march.jpg",
+"NameOfRocket":"Long March 3B/E",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"12",
+                   "Day":"07"
+                  },
+"Time":"To Be Detected",
+"Company/Government":"China Aerospace Science and Technology Corporation",
+"Payload":"11200 Kg",
+"Spaceport":"Unknown, Xichang Satellite Launch Center",
+"SurroundingSiteToView":"Xichang Satellite Launch Center, People's Republic of China",
+"LiveStreaming_URL":"un available",
+"MissionDescription":"Chang'e 4 is a Chinese lunar exploration mission, incorporating a robotic lander and rover. Chang'e 4 will be China's second lunar lander and rover. The spacecraft is named after the Chinese Moon goddess. This will be the first mission to attempt soft landing on the far side of the Moon.",
+"Status":"Serious issues and the project will probably be delayed."
+},
+
+{
+"NameOfMission":"cheops and csg-1",
+"Picture":"https://www.spacelaunchschedule.com/rockets/soyuz.jpg",
+"NameOfRocket":"Soyuz STA/Fregat",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"12",
+                   "Day":"13"
+                  },
+"Time":"To Be Detected",
+"Company/Government":"Arianespace",
+"Payload":"7100 Kg",
+"Spaceport":"Soyuz Launch Complex, Kourou/Sinnamary",
+"SurroundingSiteToView":"Kourou, French Guiana",
+"LiveStreaming_URL":"un available",
+"MissionDescription":"un-known mission",
+"Status":"Serious issues and the project will probably be delayed."
+},
+
+{
+"NameOfMission":"GPS III-1 ",
+"Picture":"https://s3.amazonaws.com/launchlibrary/RocketImages/Falcon9Block5.jpg_1920.jpg",
+"NameOfRocket":"Falcon 9 Block 5",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"12",
+                   "Day":"15"
+                  },
+"Time":"To Be Detected",
+"Company/Government":"SpaceX",
+"Payload":"228000 Kg",
+"Spaceport":"Cape Canaveral, FL, USA",
+"SurroundingSiteToView":"Entrance to the Kennedy Space Center Visitor Complex includes the ability to watch launches from the grounds. VIP tickets can be purchased for some launches for the most up close view of a launch and are typically pretty expensive. Launch viewing from KSC is typically not available outside of visitor hours.",
+"LiveStreaming_URL":"https://www.spacex.com/webcast",
+"MissionDescription":"un-known",
+"Status":"Serious issues and the project will probably be delayed."
+},
+
+{
+"NameOfMission":"MicroDragon",
+"Picture":"https://www.spacelaunchschedule.com/rockets/epsilon.jpg",
+"NameOfRocket":"Epsilon",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"12",
+                   "Day":"19"
+                  },
+"Time":"To Be Detected",
+"Company/Government":"Japan Aerospace Exploration Agency",
+"Payload":"1500 Kg",
+"Spaceport":"Mu Center, Uchinoura Space Center, Japan",
+"SurroundingSiteToView":"Uchinoura Space Center, Japan",
+"LiveStreaming_URL":"un available",
+"MissionDescription":"MicroDragon is a microsatellite developed by the Vietnam National Satellite Center (VNSC). It is tasked with ocean color observation to assess coastal water quality and locate living resources. The satellite will provide data which researchers and scientists in fishery field and oceanography use to analysis and distribute information to fishermen and environmental managers.",
+"Status":"Serious issues and the project will probably be delayed."
+},
+
+{
+"NameOfMission":"Soyuz MS-11",
+"Picture":"https://www.spacelaunchschedule.com/rockets/soyuz.jpg",
+"NameOfRocket":"Soyuz-FG",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"12",
+                   "Day":"19"
+                  },
+"Time":"To Be Detected",
+"Company/Government":"Russian Federal Space Agency (ROSCOSMOS)",
+"Payload":"6900 Kg",
+"Spaceport":"1/5, Baikonur Cosmodrome, Kazakhstan",
+"SurroundingSiteToView":"Baikonur Cosmodrome, Republic of Kazakhstan",
+"LiveStreaming_URL":"un available",
+"MissionDescription":"un-known",
+"Status":"Serious issues and the project will probably be delayed."
+},
+
+{
+"NameOfMission":"Kanopus-V No.5 & Kanopus-V No.6",
+"Picture":"https://www.spacelaunchschedule.com/rockets/soyuz.jpg",
+"NameOfRocket":"Soyuz 2.1A/Fregat",
+"DateOfLaunching":{"Year":"2018",
+                   "Month":"12",
+                   "Day":"25"
+                  },
+"Time":"To Be Detected",
+"Company/Government":"Khrunichev State Research and Production Space Center",
+"Payload":"7800 Kg",
+"Spaceport":"Cosmodrome Site 1S, Vostochny Cosmodrome, Siberia, Russian Federation",
+"SurroundingSiteToView":"Vostochny Cosmodrome, Siberia, Russian Federation",
+"LiveStreaming_URL":"un available",
+"MissionDescription":"un-known",
+"Status":"Serious issues and the project will probably be delayed."
+    }
+   
+  ]
+

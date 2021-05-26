@@ -1,0 +1,61 @@
+.centered {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    
+    font-size: 20px;
+    background-color: rgb(32, 3, 10);
+    border: rgb(100, 0, 58) 5px solid;
+    padding: 5px;
+    z-index: 100;
+  }
+  
+  table {
+      position: absolute;
+      top: 0;
+      left: 0;
+  }
+  
+  td {
+      position: relative;
+      top: 0;
+      left: 0;
+  }
+
+
+  .centeredCard {
+    position: fixed;
+    top: 140%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    
+    font-size: 20px;
+    background-color: rgb(32, 3, 10);
+    border: rgb(100, 0, 58) 5px solid;
+    padding: 5px;
+    z-index: 100;
+  }
+  
+  table {
+      position: absolute;
+      top: 0;
+      left: 0;
+  }
+  
+  td {
+      position: relative;
+      top: 0;
+      left: 0;
+  }
+
+
+  
